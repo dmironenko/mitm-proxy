@@ -1,2 +1,1 @@
-* linguist-vendored
-*.v linguist-vendored=false
+*.* linguist-language=Verilog
