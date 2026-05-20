@@ -1,2 +1,2 @@
-*.go linguist-detectable=false
-*.v linguist-language=Verilog
+* linguist-vendored
+*.v linguist-vendored=false
